@@ -1,3 +1,4 @@
+//hadi lotfi 31930249
 import 'package:flutter/material.dart';
 import 'home.dart';
 
@@ -9,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      title: "FreeBird",
+      title: "Exam",
       debugShowCheckedModeBanner: false,
       home: Home(),
     );
