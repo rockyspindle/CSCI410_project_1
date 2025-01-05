@@ -1,12 +1,8 @@
-# FreeBird
-
-visa applications pocket guide for Lebanese citizens looking for an opportunity at a dignified life.
+# GradeGetter
+Grade aggregator app for LIU students.
 
 # TODO
-Add more countries.
+add more sub-categories.
 
 # technical TODO
-- figure out country and visa builder classes to reduce redundancy
-- add links on keywords for more information
-- add estimated costs calculator
-- move instruction text to a database to streamline adding new information instead hardcoding it.
+- get the query to work (Query did not work even with the provided example in week 10).
